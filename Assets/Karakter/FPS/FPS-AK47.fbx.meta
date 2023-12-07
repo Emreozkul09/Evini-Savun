@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: d7e93aca4be6fd040ac3037ca5304922
+timeCreated: 1483256185
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AK-47
+    100002: Bone
+    100004: Bone_end
+    100006: clavicle_l
+    100008: clavicle_r
+    100010: //RootNode
+    100012: Game_engine
+    100014: hand_l
+    100016: hand_r
+    100018: high-polyMesh
+    100020: index_01_l
+    100022: index_01_r
+    100024: index_02_l
+    100026: index_02_r
+    100028: index_03_l
+    100030: index_03_l_end
+    100032: index_03_r
+    100034: index_03_r_end
+    100036: lowerarm_l
+    100038: lowerarm_l.001
+    100040: lowerarm_l_end
+    100042: lowerarm_r
+    100044: lowerarm_r.001
+    100046: lowerarm_r_end
+    100048: male01Mesh
+    100050: middle_01_l
+    100052: middle_01_r
+    100054: middle_02_l
+    100056: middle_02_r
+    100058: middle_03_l
+    100060: middle_03_l_end
+    100062: middle_03_r
+    100064: middle_03_r_end
+    100066: pinky_01_l
+    100068: pinky_01_r
+    100070: pinky_02_l
+    100072: pinky_02_r
+    100074: pinky_03_l
+    100076: pinky_03_l_end
+    100078: pinky_03_r
+    100080: pinky_03_r_end
+    100082: ring_01_l
+    100084: ring_01_r
+    100086: ring_02_l
+    100088: ring_02_r
+    100090: ring_03_l
+    100092: ring_03_l_end
+    100094: ring_03_r
+    100096: ring_03_r_end
+    100098: thumb_01_l
+    100100: thumb_01_r
+    100102: thumb_02_l
+    100104: thumb_02_r
+    100106: thumb_03_l
+    100108: thumb_03_l_end
+    100110: thumb_03_r
+    100112: thumb_03_r_end
+    100114: upperarm_l
+    100116: upperarm_r
+    400000: AK-47
+    400002: Bone
+    400004: Bone_end
+    400006: clavicle_l
+    400008: clavicle_r
+    400010: //RootNode
+    400012: Game_engine
+    400014: hand_l
+    400016: hand_r
+    400018: high-polyMesh
+    400020: index_01_l
+    400022: index_01_r
+    400024: index_02_l
+    400026: index_02_r
+    400028: index_03_l
+    400030: index_03_l_end
+    400032: index_03_r
+    400034: index_03_r_end
+    400036: lowerarm_l
+    400038: lowerarm_l.001
+    400040: lowerarm_l_end
+    400042: lowerarm_r
+    400044: lowerarm_r.001
+    400046: lowerarm_r_end
+    400048: male01Mesh
+    400050: middle_01_l
+    400052: middle_01_r
+    400054: middle_02_l
+    400056: middle_02_r
+    400058: middle_03_l
+    400060: middle_03_l_end
+    400062: middle_03_r
+    400064: middle_03_r_end
+    400066: pinky_01_l
+    400068: pinky_01_r
+    400070: pinky_02_l
+    400072: pinky_02_r
+    400074: pinky_03_l
+    400076: pinky_03_l_end
+    400078: pinky_03_r
+    400080: pinky_03_r_end
+    400082: ring_01_l
+    400084: ring_01_r
+    400086: ring_02_l
+    400088: ring_02_r
+    400090: ring_03_l
+    400092: ring_03_l_end
+    400094: ring_03_r
+    400096: ring_03_r_end
+    400098: thumb_01_l
+    400100: thumb_01_r
+    400102: thumb_02_l
+    400104: thumb_02_r
+    400106: thumb_03_l
+    400108: thumb_03_l_end
+    400110: thumb_03_r
+    400112: thumb_03_r_end
+    400114: upperarm_l
+    400116: upperarm_r
+    2300000: AK-47
+    3300000: AK-47
+    4300000: AK-47
+    4300002: male01Mesh
+    4300004: high-polyMesh
+    9500000: //RootNode
+    13700000: high-polyMesh
+    13700002: male01Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
